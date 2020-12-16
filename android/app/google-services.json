@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796799283650",
+    "firebase_url": "https://panvision-145617.firebaseio.com",
+    "project_id": "panvision-145617",
+    "storage_bucket": "panvision-145617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796799283650:android:135b16979b4c13a6a6265b",
+        "android_client_info": {
+          "package_name": "com.example.sondhani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796799283650-ft6p8c8kkjaon0hl9bvk9ngvu9o5ja4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyoZsyLacyR6YSAPRiwqmjRgufA3pgd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796799283650-ft6p8c8kkjaon0hl9bvk9ngvu9o5ja4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
